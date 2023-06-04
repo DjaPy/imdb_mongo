@@ -1,0 +1,3 @@
+### Get list data imdb
+GET {{url}}/IMDbList/{{api_key}}/ls004285275
+Accept: application/json
